@@ -1,7 +1,7 @@
 ## 💱 Currency Converter
 A sleek and responsive Currency Converter web app built using HTML, CSS, and JavaScript. It fetches real-time exchange rates using the updated @fawazahmed0/currency-api and allows users to convert amounts between multiple currencies with flag icons and dynamic updates.
 
-✨ Features
+## ✨ Features
 -- Real-time exchange rates
 -- Two-way currency conversion
 -- Responsive UI (mobile-friendly)
